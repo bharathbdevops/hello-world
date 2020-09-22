@@ -1,3 +1,5 @@
-<h1> Hello, Welcome to Simple DevOps Project !! Deployed on VM </h1>
+<h1> Hello, Welcome to Simple DevOps Project !!  </h1>
+<h2> Deployed on a Tomcat EC2 instance </h2>
+
 
 
